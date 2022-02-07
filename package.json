@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Moisés Mariano <moisesduartem@gmail.com>",
   "license": "MIT",
+  "scripts": {
+      "start": "ts-node-dev --inspect --transpile-only --respawn --ignore-watch node_modules"
+  },
   "dependencies": {
     "express": "^4.17.2"
   },
