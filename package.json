@@ -1,0 +1,7 @@
+{
+  "name": "solid-nodejs-ts-rocketseat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Moisés Mariano <moisesduartem@gmail.com>",
+  "license": "MIT"
+}
