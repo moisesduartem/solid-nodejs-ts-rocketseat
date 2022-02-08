@@ -17,6 +17,7 @@
         "eslint-plugin-import-helpers"
     ],
     "rules": {
+        "no-useless-constructor": "off",
         "lines-between-class-members": "off",
         "arrow-body-style":"off",
         "import/prefer-default-export": "off",
